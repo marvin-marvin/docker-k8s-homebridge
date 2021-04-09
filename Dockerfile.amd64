@@ -1,4 +1,4 @@
-
+#
 ARG S6_ARCH
 FROM oznu/s6-node:10.16.0-${S6_ARCH:-amd64}
 

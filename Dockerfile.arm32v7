@@ -1,4 +1,4 @@
-
+#
 ### in case of local build
 #FROM golang:1.12.0 AS builder
 #WORKDIR /builder/working/directory
